@@ -1,2 +1,2 @@
-# Python-List
-"Python list programs and practice questions with solutions for beginners and BCA students."
+# Python-Programs
+Python programs and practice questions with solutions for beginners and BCA students.
